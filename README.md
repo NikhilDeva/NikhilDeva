@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NikhilDeva
-- 👀 I’m interested in Product Management
-- 🌱 I’m currently learning many skills
+- 👀 I’m interested in Full Stack Developement
 - 📫 How to reach me : nikhiln9905@gmail.com | Linked-in: www.linkedin.com/in/nikhil-deva
 
 <!---
