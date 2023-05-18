@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilDeva
 - 👀 I’m interested in Full Stack Developement
-- 📫 How to reach me : nikhiln9905@gmail.com | Linked-in: www.linkedin.com/in/nikhil-deva
+- 📫 How to reach me : saibalajinikhil.deva@gmail.com | Linked-in: www.linkedin.com/in/nikhil-deva
 
 <!---
 NikhilDeva/NikhilDeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
