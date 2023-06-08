@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikhilDeva
-- 👀 I’m interested in Full Stack Developement
+- 👀 I’m a Full stack developer.
 - 📫 How to reach me : saibalajinikhil.deva@gmail.com | Linked-in: www.linkedin.com/in/nikhil-deva
 
 <!---
